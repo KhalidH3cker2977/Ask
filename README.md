@@ -27,7 +27,7 @@ Best Afghan Facebook accounts cloning Commands.
 * ```cd Ask```
 * ```python2 Afgcr3k.py ```
 * ```Username:Afg ```
-* ```Password :Crack
+* ```Password :crack```
 
 
 ### Find Me On :
